@@ -1,7 +1,5 @@
 # **Capstone 2: Business Analysis with Python**
 
-# 
-
 ### **Project Overview**
 
 
