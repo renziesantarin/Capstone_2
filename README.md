@@ -54,5 +54,6 @@ The sales territories included in this analysis are:
 
 
 
-**VIDEO LINK HERE:**
+**VIDEO LINK HERE:** https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsharma_yearup_org/IQCbzbnyjBEKRpRoRMS38Pl2AV6odFj3ggt-7n-myUMgu3U?e=kVjflw
+
 
